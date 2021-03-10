@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "vails": "git+ssh://git@github.com:tallty/vails.git",
     "vue": "^3.0.0",
     "vuex": "^4.0.0-0"
   },
