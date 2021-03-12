@@ -13,7 +13,7 @@
 </template>
 
 <script lang="ts">
-import { VStore } from "vails/lib/store";
+import { VStore } from "vails";
 import { defineComponent, onMounted } from "vue";
 import { PostApi, PostModel } from "@/api/post.api";
 
